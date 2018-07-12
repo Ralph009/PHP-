@@ -17,6 +17,6 @@ $variableOne = "This is a variable";
 
 echo $variableOne;
 
-?>  
+?>
 </h1>
 </body>
